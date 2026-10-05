@@ -1,9 +1,11 @@
 # DPDP Act 2023 and DPDP Rules 2025
 
-**Verify before reliance.** The DPDP Act 2023 (No. 22 of 2023; assent 11.08.2023) commences in stages through notifications. The DPDP Rules 2025 were notified in November 2025 with phased commencement. As understood when drafted:
-- **Immediately:** the definitions and the Data Protection Board provisions.
-- **About 12 months later:** Consent Manager registration.
-- **About 18 months later (around May 2027):** most substantive obligations (notice, safeguards, breach, erasure, children, SDF, rights, cross-border).
+**Verify before reliance.** The DPDP Act 2023 (No. 22 of 2023; assent 11.08.2023) commences in stages through notifications. The DPDP Rules 2025 were notified on 13.11.2025 with phased commencement:
+- **13.11.2025:** the definitions and the Data Protection Board provisions.
+- **13.11.2026:** Consent Manager registration (Rule 4).
+- **13.05.2027:** most substantive obligations (notice, consent, safeguards, breach intimation, erasure, children, SDF, rights, cross-border, penalties).
+
+No change to these dates had been found as of 06.10.2026.
 
 Confirm the exact dates in the Gazette and on the MeitY site before advising, and state the commencement status for every obligation.
 

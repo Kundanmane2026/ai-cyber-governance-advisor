@@ -1,6 +1,6 @@
 # AI Regulatory Landscape: EU AI Act and India
 
-**Verify before reliance.** The EU AI Act implementation dates may be amended (a November 2025 "digital omnibus" proposal suggested delaying some high-risk obligations, so check whether it was adopted). Commission guidelines, harmonised standards and the GPAI Code of Practice keep evolving. Indian AI governance is guideline-led and changes quickly. Search for each item and record the date checked.
+**Verify before reliance.** The EU AI Act was amended by the **Digital Omnibus on AI, Regulation (EU) 2026/1744** (OJ 24.07.2026; in force 27.07.2026), which deferred the high-risk deadlines, softened Art. 4, added an Art. 5 prohibition and extended SME relief to small mid-caps. The dates below reflect that amendment; check for later changes. Commission guidelines, harmonised standards and the GPAI Code of Practice keep evolving. Indian AI governance is guideline-led and changes quickly. Search for each item and record the date checked.
 
 ## Part A: EU AI Act (Regulation (EU) 2024/1689)
 
@@ -19,11 +19,11 @@ Exclusions include military, defence and national security; scientific R&D; pers
 
 | Tier | Provision | Examples | Consequence |
 |---|---|---|---|
-| **Prohibited** | Art. 5 | Subliminal, manipulative or deceptive techniques causing significant harm; exploiting vulnerabilities (age, disability, socio-economic situation); social scoring; predicting criminal offences solely from profiling; untargeted scraping of facial images for databases; emotion recognition in the workplace and education (except medical/safety); biometric categorisation to infer sensitive traits; real-time remote biometric identification in public spaces for law enforcement (narrow exceptions) | Banned |
+| **Prohibited** | Art. 5 | AI systems generating or manipulating non-consensual intimate imagery or child sexual abuse material (added by Reg. 2026/1744; verify its application date); subliminal, manipulative or deceptive techniques causing significant harm; exploiting vulnerabilities (age, disability, socio-economic situation); social scoring; predicting criminal offences solely from profiling; untargeted scraping of facial images for databases; emotion recognition in the workplace and education (except medical/safety); biometric categorisation to infer sensitive traits; real-time remote biometric identification in public spaces for law enforcement (narrow exceptions) | Banned |
 | **High-risk** | Art. 6(1) + Annex I | Safety component of products under EU harmonisation legislation (machinery, toys, medical devices, vehicles, and so on) needing third-party conformity assessment | Full provider/deployer obligations |
 | | Art. 6(2) + **Annex III** | (1) Biometrics; (2) critical infrastructure; (3) education and vocational training; (4) employment and worker management (recruitment, promotion, termination, task allocation, monitoring); (5) access to essential private and public services (public benefits, **creditworthiness / credit scoring**, **life and health insurance risk and pricing**, emergency dispatch); (6) law enforcement; (7) migration, asylum, border; (8) administration of justice and democratic processes | Full obligations, unless the Art. 6(3) derogation applies (no significant risk: narrow procedural task, improving a prior human activity, detecting patterns without replacing human assessment, preparatory task). Never available if the system profiles natural persons. The provider must document this and register |
 | **Transparency** | Art. 50 | Chatbots (disclose AI interaction); synthetic audio/image/video/text (machine-readable marking); emotion recognition and biometric categorisation (inform people); **deepfakes** (disclose); AI-generated text published to inform the public on matters of public interest (disclose unless human-reviewed under editorial responsibility) | Disclosure duties |
-| **Minimal** | — | Spam filters, games | Voluntary codes; Art. 4 AI literacy still applies |
+| **Minimal** | — | Spam filters, games | Voluntary codes; Art. 4 AI literacy measures still apply |
 
 ### A3. Obligations by role (high-risk systems)
 
@@ -59,23 +59,27 @@ Exclusions include military, defence and national security; scientific R&D; pers
 | **Systemic risk** (presumed above 10^25 FLOPs of training compute, or by designation): model evaluation including adversarial testing, systemic risk assessment and mitigation, serious incident reporting, cybersecurity | Art. 51, 55 | |
 | **GPAI Code of Practice** (published July 2025: transparency, copyright, safety and security chapters) | Art. 56 | Adherence demonstrates compliance; verify the signatories and status |
 
-### A5. Timeline (from entry into force 01.08.2024; verify amendments)
+### A5. Timeline (from entry into force 01.08.2024, as amended by Reg. (EU) 2026/1744)
 
 | Date | What applies |
 |---|---|
-| 02.02.2025 | Chapters I–II: definitions, **AI literacy (Art. 4)**, **prohibited practices (Art. 5)** |
-| 02.08.2025 | Notified bodies; **GPAI obligations**; governance (AI Office, Board); **penalties**; confidentiality |
-| 02.08.2026 | Most remaining provisions, including **Annex III high-risk**, Art. 50 transparency, and enforcement (**check whether delayed by the digital omnibus**) |
-| 02.08.2027 | **Art. 6(1) / Annex I** product-embedded high-risk; GPAI models placed on the market before 02.08.2025 must comply |
+| 02.02.2025 | Chapters I–II: definitions, **AI literacy (Art. 4)**, **prohibited practices (Art. 5)**. Since 27.07.2026, Art. 4 requires providers and deployers to *take measures to support* AI literacy of staff; it does not require any specific level to be guaranteed |
+| 02.08.2025 | Notified bodies; **GPAI obligations**; governance (AI Office, Board); **penalties** (Art. 99); confidentiality |
+| 27.07.2026 | Digital Omnibus (Reg. 2026/1744) in force; new Art. 5 prohibition on non-consensual intimate imagery / CSAM (verify any transitional period) |
+| 02.08.2026 | Art. 50 transparency obligations; Commission enforcement and **fining powers over GPAI providers (Art. 101)**; remaining general provisions |
+| 02.12.2026 | End of the grace period for Art. 50(2) machine-readable marking of synthetic content for systems placed on the market before 02.08.2026 |
+| 02.08.2027 | Deadline for national AI regulatory sandboxes; GPAI models placed on the market before 02.08.2025 must comply |
+| **02.12.2027** | **Annex III high-risk** obligations (deferred from 02.08.2026) |
+| **02.08.2028** | **Art. 6(1) / Annex I** product-embedded high-risk (deferred from 02.08.2027) |
 
-### A6. Penalties (Art. 99; the lower amount applies for SMEs and start-ups)
+### A6. Penalties (Art. 99; the lower amount applies for SMEs and start-ups; check how Reg. 2026/1744 treats small mid-caps)
 
 | Infringement | Maximum |
 |---|---|
 | Prohibited practices (Art. 5) | €35 million or 7% of worldwide annual turnover, whichever is higher |
 | Most other obligations (operators, notified bodies, Art. 50) | €15 million or 3% |
 | Supplying incorrect, incomplete or misleading information | €7.5 million or 1% |
-| GPAI providers (Art. 101) | €15 million or 3% |
+| GPAI providers (Art. 101; imposed by the Commission, enforceable from 02.08.2026) | €15 million or 3% |
 
 ## Part B: India
 

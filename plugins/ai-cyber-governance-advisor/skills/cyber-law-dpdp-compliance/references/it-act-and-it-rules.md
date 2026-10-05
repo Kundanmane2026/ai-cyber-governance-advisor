@@ -20,7 +20,7 @@
 | **s.69** | Interception, monitoring, decryption | Government direction on grounds of sovereignty, defence, security, public order, investigation | Failure to assist: up to 7 years + fine | IT (Procedure and Safeguards for Interception…) Rules 2009 |
 | **s.69A** | Blocking public access | Government direction; same grounds | Intermediary non-compliance: up to 7 years + fine | Upheld in *Shreya Singhal*; Blocking Rules 2009 |
 | s.67C | Preservation and retention of information by intermediaries | Failure to preserve and retain information as prescribed | **Penalty** up to ₹25 lakh (Jan Vishwas 2023; formerly up to 3 years + fine) | Civil penalty |
-| s.69B | Traffic data monitoring | For cyber security | Intermediary non-compliance: up to 1 year **or** penalty up to ₹1 crore, or both (Jan Vishwas 2023) | |
+| s.69B | Traffic data monitoring | For cyber security | Intermediary non-compliance: up to 1 year **or** fine up to ₹1 crore, or both (Jan Vishwas 2023; formerly up to 3 years + fine) | |
 | **s.70** | Protected systems | Government notifies a CII as a protected system; unauthorised access or attempt | Up to 10 years + fine | NCIIPC (s.70A); Protected System Rules 2018 |
 | s.70B | CERT-In | National agency for incident response; s.70B(6) directions; s.70B(7) penalty | Non-compliance with directions: up to 1 year **or** fine up to ₹1 crore, or both (fine raised from ₹1 lakh by Jan Vishwas 2023) | Directions 28.04.2022 |
 | **s.72** | Breach of confidentiality and privacy | A person given powers under the Act who discloses material without consent | **Penalty** up to ₹5 lakh (Jan Vishwas 2023; formerly up to 2 years and/or ₹1 lakh) | Civil penalty; applies to persons acting under IT Act powers |
