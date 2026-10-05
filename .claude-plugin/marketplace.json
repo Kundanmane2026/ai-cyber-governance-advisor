@@ -1,0 +1,14 @@
+{
+  "name": "vidhilikhit-ai",
+  "owner": {
+    "name": "Vidhilikhit AI"
+  },
+  "plugins": [
+    {
+      "name": "ai-cyber-governance-advisor",
+      "source": "./plugins/ai-cyber-governance-advisor",
+      "description": "India-first, globally aware advisory skills for cyber risk, incident response, digital forensics and evidence, cyber law and DPDP compliance, responsible AI, AI governance, strategic advisory, and professional confidentiality and ethics.",
+      "version": "1.0.0"
+    }
+  ]
+}

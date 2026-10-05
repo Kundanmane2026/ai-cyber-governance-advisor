@@ -1,0 +1,21 @@
+{
+  "name": "ai-cyber-governance-advisor",
+  "version": "1.0.0",
+  "description": "India-first, globally aware advisory skills for cyber risk, incident response, digital forensics and evidence, cyber law and DPDP compliance, responsible AI, AI governance, strategic advisory, and professional confidentiality and ethics.",
+  "author": {
+    "name": "Vidhilikhit AI"
+  },
+  "keywords": [
+    "cybersecurity",
+    "risk",
+    "incident-response",
+    "forensics",
+    "dpdp",
+    "it-act",
+    "cert-in",
+    "ai-governance",
+    "responsible-ai",
+    "india"
+  ],
+  "license": "MIT"
+}
