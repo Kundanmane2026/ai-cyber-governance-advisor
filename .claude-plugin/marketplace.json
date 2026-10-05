@@ -3,6 +3,9 @@
   "owner": {
     "name": "Vidhilikhit AI"
   },
+  "metadata": {
+    "description": "Vidhilikhit AI plugins for India-first cyber, data protection and AI governance advisory work."
+  },
   "plugins": [
     {
       "name": "ai-cyber-governance-advisor",
